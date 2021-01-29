@@ -1,0 +1,22 @@
+{
+  "name": "pdfit",
+  "version": "1.0.0",
+  "description": "Convert HTML to PDF",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://nova4005@github.com/nova4005/pdfit.git"
+  },
+  "keywords": [
+    "pdf"
+  ],
+  "author": "Garrett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nova4005/pdfit/issues"
+  },
+  "homepage": "https://github.com/nova4005/pdfit#readme"
+}
